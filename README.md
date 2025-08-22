@@ -1,4 +1,6 @@
 # Ketryx Demo
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwilliam-ketryx%2Fstandard-demo.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwilliam-ketryx%2Fstandard-demo?ref=badge_shield)
+
 
 This is a sample repository highlighting the [Ketryx Platform](https://www.ketryx.com/platform) features around [Git-based configuration items](https://docs.ketryx.com/manuals/man-09-git-based-configuration-items) and [automated test reporting](https://docs.ketryx.com/manuals/man-06-test-management#id-3.-automated-tests).
 
@@ -67,3 +69,7 @@ Run Java unit tests:
 cd java-src
 ./gradlew test
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwilliam-ketryx%2Fstandard-demo.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwilliam-ketryx%2Fstandard-demo?ref=badge_large)
